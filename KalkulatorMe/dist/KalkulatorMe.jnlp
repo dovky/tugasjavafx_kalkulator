@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="KalkulatorMe.jnlp">
+    <information>
+        <title>KalkulatorMe</title>
+        <vendor>Dicky Pratama A</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="11.0.8+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="KalkulatorMe.jar" size="4523" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="Kalkulatorme.KalkulatorMe" name="KalkulatorMe"/>
+</jnlp>
+

@@ -1,2 +1,2 @@
 # tugasjavafx_kalkulator
-Pembuatan Kalkulator Dengan JavaFX FXML 
+Pembuatan Aplikasi Kalkulator Menggunakan JavaFX FXML
